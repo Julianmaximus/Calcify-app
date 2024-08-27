@@ -1,5 +1,3 @@
-// components/Button.js
-
 import { Dimensions, StyleSheet, Text, TouchableOpacity } from 'react-native';
 
 export default ({ onPress, text, size, theme }) => {
@@ -55,6 +53,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#a6a6a6',
   },
   buttonAccent: {
-    backgroundColor: '#ffc107',
+    backgroundColor: '#4a7cff',
   },
 });
