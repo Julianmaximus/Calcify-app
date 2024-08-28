@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Calcify-app/static/js/main.2c3f4b3d.js",
+    "static/js/639.9ba16702.js": "/Calcify-app/static/js/639.9ba16702.js",
+    "favicon.ico": "/Calcify-app/favicon.ico",
+    "index.html": "/Calcify-app/index.html",
+    "favicon-32.png": "/Calcify-app/favicon-32.png",
+    "favicon-16.png": "/Calcify-app/favicon-16.png",
+    "manifest.json": "/Calcify-app/manifest.json",
+    "serve.json": "/Calcify-app/serve.json",
+    "main.2c3f4b3d.js.map": "/Calcify-app/static/js/main.2c3f4b3d.js.map",
+    "639.9ba16702.js.map": "/Calcify-app/static/js/639.9ba16702.js.map"
+  },
+  "entrypoints": [
+    "static/js/639.9ba16702.js",
+    "static/js/main.2c3f4b3d.js"
+  ]
+}
