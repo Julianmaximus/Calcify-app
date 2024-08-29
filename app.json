@@ -22,7 +22,8 @@
       "package": "com.anonymous.calcifyapp"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "publicPath": "/Calcify-app/"
     }
   }
 }
